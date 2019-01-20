@@ -1,4 +1,2 @@
-# React Clicky Game
-This is a simple memory challenge game written in React
+# React Clicky Clicky Game
 
-Don't click on the same image twice!
